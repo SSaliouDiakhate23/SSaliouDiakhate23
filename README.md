@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/serigne saliou diakhate" target="blank"><img src="https://img.shields.io/twitter/follow/serigne saliou diakhate?logo=twitter&style=for-the-badge" alt="serigne saliou diakhate" /></a> </p>
 
-- 🔭 Je travaille actuellement sur [Ecommerce](https://github.com/SSaliouDiakhate23/Ecommerce)
+- 🔭 Je travaille actuellement sur un projet [Ecommerce](https://github.com/SSaliouDiakhate23/Ecommerce)
 
 - 🌱J'apprends actuellement **React,Php,Java,C,SQL**
 
